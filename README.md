@@ -1,3 +1,8 @@
+![](https://img.shields.io/docker/stars/redwyvern/postfix-base.svg)
+![](https://img.shields.io/docker/pulls/redwyvern/postfix-base.svg)
+![](https://img.shields.io/docker/automated/redwyvern/postfix-base.svg)
+[![](https://images.microbadger.com/badges/image/redwyvern/postfix-base.svg)](https://microbadger.com/images/redwyvern/postfix-base "Get your own image badge on microbadger.com")
+
 This image is based on tozd/postfix except that it has been adapted to work with a Debian base system instead of Ubuntu.
 
 Image providing [Postfix](http://www.postfix.org/) as a service.
